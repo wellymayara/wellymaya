@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&langs_count=8&theme=dracula)](https://github.com/wellymaya/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&langs_count=8&theme=dracula&v2)](https://github.com/wellymaya/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
+
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
 
