@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50px" margin="10px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50px">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&langs_count=8&theme=dracula&v2)](https://github.com/wellymaya/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
 
