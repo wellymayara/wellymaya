@@ -3,7 +3,7 @@
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&langs_count=8&theme=dracula&v2)](https://github.com/wellymaya/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&langs_count=8&theme=dracula&v2)](https://github.com/wellymaya/github-readme-stats) --> 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellymaya&show_icons=true&layout=compact&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
 <h3>Technologies: </h3>
 
