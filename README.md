@@ -1,18 +1,19 @@
  <h2> Hi there  👋 </h2>
  <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&layout=compact&v=2angs_count=8&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&layout=compact&v=2angs_count=8&theme=dracula&v=0)](https://github.com/wellymaya/github-readme-stats) 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellymaya&show_icons=true&layout=compact&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
-<h3>Technologies: </h3>
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellymaya&show_icons=true&layout=compact&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
+-->
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50px" margin="10px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="50px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px" margin="5px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50px" margin="10px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50px">
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
  
