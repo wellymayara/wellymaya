@@ -1,4 +1,4 @@
- <h2> Hi there  👋 </h2>
+ <h2> Hello, I'm Welly Mayara 🖤</h2>
  <br>
 
  <div>    
@@ -7,10 +7,12 @@
  <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&layout=compact&v=2angs_count=8&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats) 
-<img width="200px" src="https://cdn.discordapp.com/attachments/886493503142649899/886493708386730004/Webp.net-gifmaker2.gif">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
+<img width="195px"  src="https://cdn.discordapp.com/attachments/886493503142649899/886493708386730004/Webp.net-gifmaker2.gif">
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wellymaya&show_icons=true&layout=compact&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
