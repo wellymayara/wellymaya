@@ -9,7 +9,7 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&layout=compact&v=2angs_count=8&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&v=2angs_count=8&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellymaya&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats)
 <img width="195px"  src="https://cdn.discordapp.com/attachments/886493503142649899/886493708386730004/Webp.net-gifmaker2.gif">
