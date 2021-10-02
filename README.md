@@ -2,9 +2,10 @@
  Hello! I'm Welly Mayara! 👋🏻
 </h2>
 
- <p align="center">
- 🚀 I’m currently a student of analysis and systems development at impacta tecnologia
+ <!--<p align="center">
+  🚀 I’m currently a student of analysis and systems development at impacta tecnologia
 </p>
+-->
  <br>
 
  <div align="center">
