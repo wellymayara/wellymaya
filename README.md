@@ -16,7 +16,7 @@
  <br>
  <br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&layout=compact&v=1angs_count=8&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats) <img width="165px"  src="https://cdn.discordapp.com/attachments/886493503142649899/886493708386730004/Webp.net-gifmaker2.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellymaya&layout=compact&v=1angs_count=8&theme=dracula&v=2)](https://github.com/wellymaya/github-readme-stats) <img width="165px"  src="https://cdn.discordapp.com/attachments/886493503142649899/938626662453624892/ezgif.com-gif-maker.gif">
 
  
 
