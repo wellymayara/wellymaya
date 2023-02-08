@@ -1,5 +1,5 @@
 <h2 align="center">
- Hello! I'm Welly Mayara! 👋🏻
+ Opa! Eu sou Welly Mayara! 👋🏻
 </h2>
 
  <!--<p align="center">
